@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on 潮流觀察新聞</title>
-    <link>http://127.0.0.1:8888/tags/emoji/</link>
+    <link>https://benzhub.github.io/TrendWatchNews.com-Prod/tags/emoji/</link>
     <description>Recent content in emoji on 潮流觀察新聞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://127.0.0.1:8888/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://benzhub.github.io/TrendWatchNews.com-Prod/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emoji Support</title>
-      <link>http://127.0.0.1:8888/posts/emoji-support/</link>
+      <link>https://benzhub.github.io/TrendWatchNews.com-Prod/posts/emoji-support/</link>
       <pubDate>Mon, 13 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:8888/posts/emoji-support/</guid>
+      <guid>https://benzhub.github.io/TrendWatchNews.com-Prod/posts/emoji-support/</guid>
       <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
     </item>
     

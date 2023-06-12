@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>math on 潮流觀察新聞</title>
-    <link>http://127.0.0.1:8888/tags/math/</link>
+    <link>https://benzhub.github.io/TrendWatchNews.com-Prod/tags/math/</link>
     <description>Recent content in math on 潮流觀察新聞</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://127.0.0.1:8888/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://benzhub.github.io/TrendWatchNews.com-Prod/tags/math/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Write Math Equations</title>
-      <link>http://127.0.0.1:8888/posts/write-math-equations/</link>
+      <link>https://benzhub.github.io/TrendWatchNews.com-Prod/posts/write-math-equations/</link>
       <pubDate>Mon, 21 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://127.0.0.1:8888/posts/write-math-equations/</guid>
+      <guid>https://benzhub.github.io/TrendWatchNews.com-Prod/posts/write-math-equations/</guid>
       <description>Write math equations with ease. At first enable math:true in front matter.
 Then write this-
 $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ to produce this-
